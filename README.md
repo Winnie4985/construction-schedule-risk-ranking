@@ -39,10 +39,6 @@
 | --- | --- |
 | ![LOPO heatmap](images/lopo_heatmap.png) | ![Learning curve](images/learning_curve.png) |
 
-**互動式 Demo**(`app.py`,Streamlit):選一個工地,即時看模型如何排出該工地的高風險任務清單。
-本機執行方式見下方「快速開始」;若部署到 [Streamlit Community Cloud](https://streamlit.io/cloud),
-把這行換成你的實際網址:`👉 Live Demo: <你的 Streamlit Cloud 連結>`
-
 ---
 
 ## 🧠 這個專題在做什麼(問題定義)
